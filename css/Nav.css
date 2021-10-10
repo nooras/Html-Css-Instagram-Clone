@@ -177,6 +177,11 @@ img{
     display: flex;
 }
 
+.nameDesc{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
 .nameDesc .name{
     font-size: 15px;
     font-weight: bolder;
@@ -186,6 +191,7 @@ img{
 
 .nameDesc .desc{
     color: grey;
+    font-size: 15px;
 }
 
 .comment .addComment{
